@@ -1,4 +1,6 @@
 # NYC Airbnb Price Prediction
+Contributors: Riya Mehta, Sai Priya Lakkireddy
+
 ## Overview
 This project focuses on predicting the prices of Airbnb listings in different neighborhoods of New York City. The predictive model is built using linear regression, with a comprehensive approach to data preprocessing, feature selection, and model evaluation.
 
